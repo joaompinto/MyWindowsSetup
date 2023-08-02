@@ -1,2 +1,4 @@
 # MyWindowsSetup
-Described my preferred windows setup
+
+This repository describes my prefered windows setup
+
